@@ -21,6 +21,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ru      : &RU       Архив
       # @end locale config
     url: /archive.html
 
@@ -46,5 +47,6 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ru      : &RU       О сайте
       # @end locale config
     url: /about.html
