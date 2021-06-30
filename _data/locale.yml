@@ -1,4 +1,29 @@
 # @start locale config
+## => Русский
+########################
+ru: &RU
+  SUBSCRIBE               : "Подписаться"
+  READMORE                : "Читать"
+  SEARCH                  : "Искать"
+  CANCEL                  : "Отменить"
+  VIEWS                   : "просмотров"
+  LAST_UPDATED            : "Обновлено"
+  PREVIOUS                : "Назад"
+  NEXT                    : "Вперед"
+  ARTICLE_DATE_FORMAT     : "%Y %b %d"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] заметов, [PAGE_COUNT] страниц."
+  LICENSE_ANNOUNCE        : "Под лицензией [LICENSE]."
+  POST_ON_GITHUB          : "Отредактировано Github"
+  FOLLOW_ME               : "Подписаться [NAME]."
+  FOLLOW_US               : "Подписаться [NAME]."
+  EMAIL_ME                : "Отправить письмо."
+  EMAIL_US                : "Отправить письмо."
+  COPYRIGHT_DATES         : "2021"
+
+ru-RU:
+  <<: *RU
+
 ## => English
 ########################
 en: &EN
