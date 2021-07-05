@@ -118,33 +118,34 @@ aside:
 
 ## Публикации по проблеме в независимых СМИ
 <details>
-  <summary>Развернуть</summary>
-
-  - 05.07.2021 Экологи сообщают о начале работ по прокладке «спорной трассы» через дубраву Волго-Ахтубинской поймы  http://ekogradmoscow.ru//novosti/peredovitsa/ekologi-soobshchayut-o-nachale-rabot-po-prokladke-spornoj-trassy-cherez-dubravu-volgo-akhtubinskoj-pojmy
-  - 24.06.2021 руководитель ОП РФ Шаройкина: мы ничего не разрешали https://www.facebook.com/100001619438416/posts/4393967847333820/?sfnsn=scwspmo 
-  - 25.06.2021 Лукоморья больше нет... ПОРУБИЛИ ТЕ ДУБЫ НА ГРОБЫ... https://ekogradmoscow.ru/eko-blog/blog-igorya-agafonova/lukomorya-bolshe-net 
-  - 24.06.2021 Минприроды разрешило строительство дороги через Волго-Ахтубинскую пойму. Это уникальный природный парк и биосферный резерват ЮНЕСКО https://nat-geo.ru/ekologiya-i-klimat/minprirody-razreshilo-stroitelstvo-dorogi-cherez-volgo-ahtubinskuyu-pojmu-eto-unikalnyj-prirodnyj-park-i-biosfernyj-rezervat-yunesko/
-  - 23.06.2021 «Это фейк комитета транспорта»: в Волгограде не верят в разрешение Минприроды строить дорогу в Волго-Ахтубинской пойме  https://bloknot-volgograd.ru/news/eto-feyk-komiteta-transporta-v-volgograde-ne-verya-1358921 
-  - 23.06.2021 Дубам почти дубец: власти Волгоградской области поспешили заявить о старте строительства скандальной трассы https://volga-kaspiy.ru/society/dubam-pochti-dubecz-vlasti-volgogradskoj-oblasti-pospeshili-zayavit-o-starte-stroitelstva-skandalnoj-trassy.html/?WPACFallback=1&WPACRandom=1624466437168
-  - 23.06.2021 Александр Осипов: строить вроде как дали добро, но на самом деле нет https://www.facebook.com/100034973480319/posts/541003947075383/?d=n 
-  - 21.06.2021 Черепахин: из выступления Бочарова: до создания четвертого пускового комплекса (от Мамаева Кургана до московской трассы)... реализация даже половины сказанного превратит Волгоград в логистический центр юга России уже через 5-6 лет https://www.facebook.com/100001883267991/posts/5812588765480508/
-  - 16.06.2021 Волго- Ахтубинская пойма: 300-летние дубы — под бульдозер Почему автомагистраль важнее 15 тысяч деревьев https://svpressa.ru/society/article/301383/
-  - 10.06.2021 Эдгар Петросян. Зависимость количества выхлопных газов от скорости и сколько какое дерево выделяет кислорода https://www.facebook.com/100001096154446/posts/4183847588328405/
-  - 10.06.2021 «Освоить бабло и не отвечать за природу»: миллиардер Олег Савченко поддержал вырубку деревьев в Волго-Ахтубинской пойме ради своего инвестпроекта https://bloknot-volgograd.ru/news/osvoit-bablo-i-ne-otvechat-za-prirodu-milliarder-o-1354259
-  - 14.05.2021 Утренние "пробки" в поймеhttps://www.youtube.com/watch?v=--mSb5eUg-8
-  ...
-  
+<summary>Развернуть</summary>
+<p>
+- 05.07.2021 Экологи сообщают о начале работ по прокладке «спорной трассы» через дубраву Волго-Ахтубинской поймы  http://ekogradmoscow.ru//novosti/peredovitsa/ekologi-soobshchayut-o-nachale-rabot-po-prokladke-spornoj-trassy-cherez-dubravu-volgo-akhtubinskoj-pojmy
+- 24.06.2021 руководитель ОП РФ Шаройкина: мы ничего не разрешали https://www.facebook.com/100001619438416/posts/4393967847333820/?sfnsn=scwspmo 
+- 25.06.2021 Лукоморья больше нет... ПОРУБИЛИ ТЕ ДУБЫ НА ГРОБЫ... https://ekogradmoscow.ru/eko-blog/blog-igorya-agafonova/lukomorya-bolshe-net 
+- 24.06.2021 Минприроды разрешило строительство дороги через Волго-Ахтубинскую пойму. Это уникальный природный парк и биосферный резерват ЮНЕСКО https://nat-geo.ru/ekologiya-i-klimat/minprirody-razreshilo-stroitelstvo-dorogi-cherez-volgo-ahtubinskuyu-pojmu-eto-unikalnyj-prirodnyj-park-i-biosfernyj-rezervat-yunesko/
+- 23.06.2021 «Это фейк комитета транспорта»: в Волгограде не верят в разрешение Минприроды строить дорогу в Волго-Ахтубинской пойме  https://bloknot-volgograd.ru/news/eto-feyk-komiteta-transporta-v-volgograde-ne-verya-1358921 
+- 23.06.2021 Дубам почти дубец: власти Волгоградской области поспешили заявить о старте строительства скандальной трассы https://volga-kaspiy.ru/society/dubam-pochti-dubecz-vlasti-volgogradskoj-oblasti-pospeshili-zayavit-o-starte-stroitelstva-skandalnoj-trassy.html/?WPACFallback=1&WPACRandom=1624466437168
+- 23.06.2021 Александр Осипов: строить вроде как дали добро, но на самом деле нет https://www.facebook.com/100034973480319/posts/541003947075383/?d=n 
+- 21.06.2021 Черепахин: из выступления Бочарова: до создания четвертого пускового комплекса (от Мамаева Кургана до московской трассы)... реализация даже половины сказанного превратит Волгоград в логистический центр юга России уже через 5-6 лет https://www.facebook.com/100001883267991/posts/5812588765480508/
+- 16.06.2021 Волго- Ахтубинская пойма: 300-летние дубы — под бульдозер Почему автомагистраль важнее 15 тысяч деревьев https://svpressa.ru/society/article/301383/
+- 10.06.2021 Эдгар Петросян. Зависимость количества выхлопных газов от скорости и сколько какое дерево выделяет кислорода https://www.facebook.com/100001096154446/posts/4183847588328405/
+- 10.06.2021 «Освоить бабло и не отвечать за природу»: миллиардер Олег Савченко поддержал вырубку деревьев в Волго-Ахтубинской пойме ради своего инвестпроекта https://bloknot-volgograd.ru/news/osvoit-bablo-i-ne-otvechat-za-prirodu-milliarder-o-1354259
+- 14.05.2021 Утренние "пробки" в поймеhttps://www.youtube.com/watch?v=--mSb5eUg-8
+...
+</p>  
 </details>
 
 ## Публикации в СМИ, подконтрольных администрации Волгоградской области
 <details>
-  <summary>Развернуть</summary>
-
-  - 29.06.2021 Видео: перегруженная трасса наносит огромный ущерб окружающей среде https://vk.com/wall-172765992_2109 
-  - 28.06.2021 Мазанов: наконец-то можно строить! https://www.facebook.com/groups/1031271506940790/permalink/4122136434520933/
-  - 25.06.2021 Волго-Ахтубинская пойма: строительство дороги | Две стороны медали (депутат про то, что нет реликтовых дубов в пойме?) https://www.youtube.com/watch?v=bAblANGD2FU
-  - 17.06.2021 «Не за такое они переплачивали»: волгоградец назвал, кому выгодно защищать дубы от трассы через пойму https://v1.ru/text/gorod/2021/06/17/69975332/
-  - 11.06.2021 Саженцам дубов в Волго-Ахтубинской пойме пообещали 10-летний уход https://v102.ru/news/97069.html
-  - 11.06.2021 В Волго-Ахтубинской пойме за саженцами дубов будут ухаживать 10 лет https://novostivolgograda.ru/news/society/11-06-2021/v-volgo-ahtubinskoy-poyme-za-sazhentsami-dubov-budut-uhazhivat-10-let
-  - 8.06.2021 https://www.facebook.com/groups/1031271506940790/permalink/4068270483240862/
+<summary>Развернуть</summary>
+<p>
+- 29.06.2021 Видео: перегруженная трасса наносит огромный ущерб окружающей среде https://vk.com/wall-172765992_2109 
+- 28.06.2021 Мазанов: наконец-то можно строить! https://www.facebook.com/groups/1031271506940790/permalink/4122136434520933/
+- 25.06.2021 Волго-Ахтубинская пойма: строительство дороги | Две стороны медали (депутат про то, что нет реликтовых дубов в пойме?) https://www.youtube.com/watch?v=bAblANGD2FU
+- 17.06.2021 «Не за такое они переплачивали»: волгоградец назвал, кому выгодно защищать дубы от трассы через пойму https://v1.ru/text/gorod/2021/06/17/69975332/
+- 11.06.2021 Саженцам дубов в Волго-Ахтубинской пойме пообещали 10-летний уход https://v102.ru/news/97069.html
+- 11.06.2021 В Волго-Ахтубинской пойме за саженцами дубов будут ухаживать 10 лет https://novostivolgograda.ru/news/society/11-06-2021/v-volgo-ahtubinskoy-poyme-za-sazhentsami-dubov-budut-uhazhivat-10-let
+- 8.06.2021 https://www.facebook.com/groups/1031271506940790/permalink/4068270483240862/
+</p>
 </details>
