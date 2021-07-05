@@ -8,9 +8,9 @@ aside:
 
 ## Наши другие ресурсы
 
-- инстаграм https://www.instagram.com/poima_volgograd_unesco/
-- телеграм https://t.me/vapoima
-- вконтакте https://vk.com/poima_volgograd_unesco
+- инстаграм [](https://www.instagram.com/poima_volgograd_unesco/)
+- телеграм [](https://t.me/vapoima)
+- вконтакте [](https://vk.com/poima_volgograd_unesco)
 
 ## Краткая хронология событий
 
