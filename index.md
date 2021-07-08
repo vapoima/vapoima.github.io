@@ -13,8 +13,8 @@ aside:
 - вконтакте [https://vk.com/poima_volgograd_unesco](https://vk.com/poima_volgograd_unesco)
 
 ## Краткая хронология событий
-
-- **4.07.2021** Начато незаконное строительство новой дороги
+- 7.07.2021 Недовольные люди вышли к месту начала строительства незаконной дороги и вызвали полицию
+- 4.07.2021 Началось незаконное строительство новой дороги
 - В СМИ было несколько публикаций о том, что Росприроднадзор согласовал проект пердложенный администрацией. Однако этого документа никто не видел и Росприроднадзор на официальный запрос ответил, что «экспертизы федерального уровня в росприроднадзор не поступало» [https://www.facebook.com/story.php?story_fbid=3009135865996075&id=100006990737121](https://www.facebook.com/story.php?story_fbid=3009135865996075&id=100006990737121)
 - ...
 
@@ -116,10 +116,19 @@ aside:
 
 - приказ Об организации прокурорского надзора за исполнением законодательства в экологической сфере [https://news.ecoindustry.ru/wp-content/uploads/2021/04/Prikaz-Generalnoj-prokuratury-Rossijskoj-Federatsii-198-ot-15.04.2021-g..pdf ](https://news.ecoindustry.ru/wp-content/uploads/2021/04/Prikaz-Generalnoj-prokuratury-Rossijskoj-Federatsii-198-ot-15.04.2021-g..pdf)
 
-## Публикации по проблеме в независимых СМИ
+## Публикации по теме в других СМИ
 <details>
 <summary>Развернуть</summary>
 <ul>
+<li> 08.07.2021  Антон Гетманенко на Эхо Москвы  https://www.facebook.com/watch/live/?v=775026793179408&ref=watch_permalink </li>
+<li> 08.07.2021  Видно ущерб, нанесённый началом строительства: https://www.instagram.com/p/CRCe17EIcnt/?utm_medium=copy_link </li>
+<li> 07.07.2021 Александр Осипов: Находимся на месте преступления. Тракторами удалён плодородный слой, вырубается растительность. https://www.facebook.com/story.php?story_fbid=549816802860764&id=100034973480319 </li>
+<li> 07.07.2021 Задержания начались на народном сходе противников стройки трассы через Волго-Ахтубинскую пойму https://bloknot-volgograd.ru/news/zaderzhaniya-nachalis-na-narodnom-skhode-protivnik-1363992 </li>
+<li> 07.07.2021 “Бочаров, сам свалишь, а нам пеньки оставишь?”: жители Волгоградской области требуют остановить строительство моста в природном парке  https://volgasib.ru/virtual/obshestvo/bocharov-sam-svalish-a-nam-penki-ostavish-zhiteli-volgogradskoj-oblasti-trebuyut-ostanovit-stroitelstvo-mosta-v-prirodnom-parke/ </li>
+<li> 07.07.2021 «Поставим палаточный лагерь, это – преступление»: под Волгоградом люди взбунтовались строительству дороги в пойме https://bloknot-volgograd.ru/news/postavim-palatochnyy-lager-eto-prestuplenie-pod-vo </li>
+<li> 07.07.2021  Игра в пинг-понг на брифинге по вопросу строительства дороги через дубраву в Волго-Ахтубинской пойме  https://ekogradmoscow.ru/2012-11-25-08-44-50/2012-11-25-08-49-32/igra-v-ping-pong-na-brifinge-po-voprosu-stroitelstva-dorogi-cherez-dubravu-v-volgo-akhtubinskoj-pojme </li>
+<li> 07.07.2021 Начальство приказало строителям преступить закон и строители трассы в Волго-Ахтубинской пойме выбрали… https://экотв.space/?action=watch&video=iGvfY9 </li>
+<li> 07.07.2021 Депутат Александр Осипов на Эхо Москвы на счёт поймы https://www.youtube.com/watch?v=L1GZQQUzXck </li>
 <li> 05.07.2021 Экологи сообщают о начале работ по прокладке «спорной трассы» через дубраву Волго-Ахтубинской поймы  http://ekogradmoscow.ru//novosti/peredovitsa/ekologi-soobshchayut-o-nachale-rabot-po-prokladke-spornoj-trassy-cherez-dubravu-volgo-akhtubinskoj-pojmy</li>
 <li> 24.06.2021 руководитель ОП РФ Шаройкина: мы ничего не разрешали https://www.facebook.com/100001619438416/posts/4393967847333820/?sfnsn=scwspmo </li>
 <li> 25.06.2021 Лукоморья больше нет... ПОРУБИЛИ ТЕ ДУБЫ НА ГРОБЫ... https://ekogradmoscow.ru/eko-blog/blog-igorya-agafonova/lukomorya-bolshe-net </li>
@@ -134,11 +143,7 @@ aside:
 <li> 14.05.2021 Утренние "пробки" в поймеhttps://www.youtube.com/watch?v=--mSb5eUg-8 </li>
 ...
 </ul>  
-</details>
 
-## Публикации в СМИ, подконтрольных администрации Волгоградской области
-<details>
-<summary>Развернуть</summary>
 <ul>
 <li>29.06.2021 Видео: перегруженная трасса наносит огромный ущерб окружающей среде https://vk.com/wall-172765992_2109</li>
 <li>28.06.2021 Мазанов: наконец-то можно строить! https://www.facebook.com/groups/1031271506940790/permalink/4122136434520933/</li>
@@ -150,4 +155,4 @@ aside:
 </ul>
 </details>
 
-Обновлено 5.07.2021
+Обновлено 8.07.2021
