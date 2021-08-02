@@ -13,6 +13,7 @@ aside:
 - вконтакте [https://vk.com/poima_volgograd_unesco](https://vk.com/poima_volgograd_unesco)
 
 ## Краткая хронология событий
+- 23.07.2021 Природоохранный прокурор Волгоградской области осмотрел место строительства незаконной дороги
 - 7.07.2021 Недовольные люди вышли к месту начала строительства незаконной дороги и вызвали полицию
 - 4.07.2021 Началось незаконное строительство новой дороги
 - В СМИ было несколько публикаций о том, что Росприроднадзор согласовал проект пердложенный администрацией. Однако этого документа никто не видел и Росприроднадзор на официальный запрос ответил, что «экспертизы федерального уровня в росприроднадзор не поступало» [https://www.facebook.com/story.php?story_fbid=3009135865996075&id=100006990737121](https://www.facebook.com/story.php?story_fbid=3009135865996075&id=100006990737121)
@@ -21,7 +22,7 @@ aside:
 ## Как можно помочь предотвратить вырубку деревьев
 
 1. Рассказать своим друзьям и знакомым о том, что так называемая администрация пытается построить незаконную дорогу 
-2. Пожаловаться на незаконное строительство, например через приложение «Госуслуги: решаем вместе» (можно установить через [гугл плей](https://play.google.com/store/apps/details?id=ru.gosuslugi.pos&hl=ru&gl=US) или [апп стор](https://apps.apple.com/ru/app/%D0%B3%D0%BE%D1%81%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5/id1516448015))
+2. Пожаловаться на незаконное строительство в [приемную президента РФ](http://letters.kremlin.ru) или [министру природных ресурсов](https://www.mnr.gov.ru/about/minister/). Можно написать обращение через приложение «Госуслуги: решаем вместе» (можно установить через [гугл плей](https://play.google.com/store/apps/details?id=ru.gosuslugi.pos&hl=ru&gl=US) или [апп стор](https://apps.apple.com/ru/app/%D0%B3%D0%BE%D1%81%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5/id1516448015))
 1. [Подписать петицию в защиту Волго-Ахтубинской поймы (уже больше 46 000 человек)](https://www.change.org/p/%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%83-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D1%83%D1%82%D0%B8%D0%BD%D1%83-%D0%B2-%D0%B2-%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B0%D1%80%D0%BA-%D0%B2%D0%BE%D0%BB%D0%B3%D0%BE-%D0%B0%D1%85%D1%82%D1%83%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B9%D0%BC%D0%B0-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D0%BC-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%B0-)
 
 ## Почему строительство дороги незаконное
@@ -120,10 +121,19 @@ aside:
 <details>
 <summary>Развернуть</summary>
 <ul>
+  <li>28.07.2021 <a href="http://gg34.ru/news/policy/32353-bolshe-poloviny-gubernatorov-rossii-ne-umeyut-obshchatsya-s-zhitelyami.html">Больше половины губернаторов России не умеют общаться с жителями</a></li>
+<li>29.07.2021 <a href="https://volga-kaspiy.ru/society/chto-eto-bylo-i-zachem-v-volgo-ahtubinskoj-pojme-zagubleny-posadki-dubov.html/"> «Что это было и зачем?»: в Волго-Ахтубинской пойме загублены посадки дубов</a></li>
+<li>23.07.2021 <a href="https://v102.ru/news/98074.html"> «Границы соблюдены»: природоохранный прокурор проверил будущую трассу под Волгоградом</a></li>
+<li>22.07.2021 <a href="https://v1-ru.turbopages.org/v1.ru/s/text/gorod/2021/07/22/70039412/?publisher_logo_url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-turbo%2F1631983%2F2a00000168eaf72a89a0455f5845a277e95b%2Forig&promo=navbar&utm_referrer=https%3A%2F%2Fzen.yandex.com%2F%3Ffromzen%3Dsearchapp"> Посмотрели свысока на дубы: чиновник и подрядчик пролетели на самолете над будущей трассой в Волго-Ахтубинской пойме</a></li>
+<li>23.07.2021 <a href="https://www.kavkaz-uzel.eu/articles/366289/#.YPpcwJqmt6I.facebook"> Активисты потребовали реакции прокуратуры на строительство дороги в Волго-Ахтубинской пойме</a></li>
+<li>22.07.2021 <a href="https://v1.ru/text/gorod/2021/07/22/70038548"> Юг и центр Волгограда пообещали соединить мостами через Волгу. Но не сказали, в каком веке это произойдет</a></li>
+<li>14.07.2021 <a href="https://ekogradmoscow.ru/novosti/peredovitsa/ekologicheskij-1937-j-gruppa-kompanij-eks-nezakonno-unichtozhaet-park-volgo-akhtubinskaya-pojma">Экологический 1937-й: "Группа компаний ЕКС" незаконно уничтожает парк "Волго-Ахтубинская пойма" </a></li>
 <li>13.07.2021 Третий и завершающий трехлетний цикл по рекреационному мониторингу озера Лотосов запомнился шокирующими вандальными действиями со стороны посетителей.  <a href="https://www.instagram.com/p/CRQyEmijvqB/?utm_medium=copy_link">https://www.instagram.com/p/CRQyEmijvqB/?utm_medium=copy_link</a></li>
 <li>12.07.2021 Эдгар Петросян: Вчера задержали одну из активисток...  <a href="https://m.facebook.com/story.php?story_fbid=4270111176368712&id=100001096154446">https://m.facebook.com/story.php?story_fbid=4270111176368712&id=100001096154446</a></li>
 <li>12.07.2021 Волгоград ждет помощи от Верховного, от Путина <a href="https://svpressa.ru/society/article/303898/">https://svpressa.ru/society/article/303898/</a></li>
 <li>12.07.2021 Максим Кац: ТРАССА ПРОТИВ ЗАПОВЕДНИКА ЮНЕСКО <a href="https://www.youtube.com/watch?v=7EUzIXH4bis&t=572s">https://www.youtube.com/watch?v=7EUzIXH4bis&t=572s</a></li>
+<li>12.07.2021 <a href="https://www.youtube.com/watch?app=desktop&v=3dZusYnyFas&feature=youtu.be"> Волго-Ахтубинская пойма: люди предупреждали, что выйдут на протест. И вышли.</a></li>
+<li>12.07.2021 <a href="https://мтв.онлайн/feed/transport/svetlana-kazachenok-o-trasse-v-volgo-akhtubinskoy-poyme-kogda-stroyka-zavershitsya-tysyachi-lyudey-vzdokhnut-svobodno-6911859433.html"> Светлана Казаченок о трассе в Волго-Ахтубинской пойме: «Когда стройка завершится, тысячи людей вздохнут свободно» </a></li>
 <li>11.07.2021 Задержана противница вырубки дубов в Волго-Ахтубинской пойме</li><a href="https://kavkaz--uzel-eu.turbopages.org/kavkaz-uzel.eu/s/articles/365875/?utm_source=yxnews&utm_medium=mobile">https://kavkaz--uzel-eu.turbopages.org/kavkaz-uzel.eu/s/articles/365875/?utm_source=yxnews&utm_medium=mobile</a></li>
 <li>10.07.2021 В природном парке «Волго-Ахтубинская пойма», биосферном резервате ЮНЕСКО, начали незаконно строить скоростную дорогу <a href="https://www.instagram.com/p/CRJgXS0n9-2/?utm_medium=copy_link">https://www.instagram.com/p/CRJgXS0n9-2/?utm_medium=copy_link</a></li>
 <li>09.07.2021 Строительство началось и ЛЮДИ как и обещали вышли  <a href="https://vk.com/wall-33667151_803072">https://vk.com/wall-33667151_803072</a></li>
@@ -145,6 +155,7 @@ aside:
 <li> 07.07.2021  Игра в пинг-понг на брифинге по вопросу строительства дороги через дубраву в Волго-Ахтубинской пойме  <a href="https://ekogradmoscow.ru/2012-11-25-08-44-50/2012-11-25-08-49-32/igra-v-ping-pong-na-brifinge-po-voprosu-stroitelstva-dorogi-cherez-dubravu-v-volgo-akhtubinskoj-pojme">https://ekogradmoscow.ru/2012-11-25-08-44-50/2012-11-25-08-49-32/igra-v-ping-pong-na-brifinge-po-voprosu-stroitelstva-dorogi-cherez-dubravu-v-volgo-akhtubinskoj-pojme</a> </li>
 <li> 07.07.2021 Начальство приказало строителям преступить закон и строители трассы в Волго-Ахтубинской пойме выбрали… https://экотв.space/?action=watch&video=iGvfY9 </li>
 <li> 07.07.2021 Депутат Александр Осипов на Эхо Москвы на счёт поймы <a href="https://www.youtube.com/watch?v=L1GZQQUzXck">https://www.youtube.com/watch?v=L1GZQQUzXck</a> </li>
+ <li>06.07.2021 <a href="https://www.youtube.com/watch?v=miFhfoo95LE"> Началось строительство третьей очереди моста через Волгу</a></li>
 <li>06.07.2021 В природном парке «Волго-Ахтубинская пойма» начали незаконно строить скоростную дорогу <a href="https://greenpeace.ru/news/2021/07/06/v-parke-volgo-ahtubinskaja-pojma-nachali-nezakonno-stroit-skorostnuju-dorogu/?utm_source=instagramstories&utm_medium=social&utm_campaign=forest-oopt&utm_content=instagramstories&utm_term=100721">https://greenpeace.ru/news/2021/07/06/v-parke-volgo-ahtubinskaja-pojma-nachali-nezakonno-stroit-skorostnuju-dorogu/?utm_source=instagramstories&utm_medium=social&utm_campaign=forest-oopt&utm_content=instagramstories&utm_term=100721</a></li> 
 <li> 05.07.2021 Экологи сообщают о начале работ по прокладке «спорной трассы» через дубраву Волго-Ахтубинской поймы  <a href="http://ekogradmoscow.ru//novosti/peredovitsa/ekologi-soobshchayut-o-nachale-rabot-po-prokladke-spornoj-trassy-cherez-dubravu-volgo-akhtubinskoj-pojmy">http://ekogradmoscow.ru//novosti/peredovitsa/ekologi-soobshchayut-o-nachale-rabot-po-prokladke-spornoj-trassy-cherez-dubravu-volgo-akhtubinskoj-pojmy</a></li>
 <li>29.06.2021 Видео: перегруженная трасса наносит огромный ущерб окружающей среде <a href="https://vk.com/wall-172765992_2109">https://vk.com/wall-172765992_2109</a></li>
