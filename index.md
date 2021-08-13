@@ -120,8 +120,6 @@ aside:
 - приказ Об организации прокурорского надзора за исполнением законодательства в экологической сфере [https://news.ecoindustry.ru/wp-content/uploads/2021/04/Prikaz-Generalnoj-prokuratury-Rossijskoj-Federatsii-198-ot-15.04.2021-g..pdf ](https://news.ecoindustry.ru/wp-content/uploads/2021/04/Prikaz-Generalnoj-prokuratury-Rossijskoj-Federatsii-198-ot-15.04.2021-g..pdf)
 
 ## Публикации по теме в других СМИ
-<details>
-<summary>Развернуть</summary>
 <ul>
 <li>12.08.2021 <a href="https://vk.com/video-187981276_456239287">Комитет защиты Северной Двины" и Котласская ЭкоБессрочка в поддержку Волго-Ахтубинской поймы </a></li>
 <li>12.08.2021 <a href="https://t.me/freedomisland34/33943"> Популярный канал НЕЗЫГАРЬ написал какую – то хрень</a></li>
@@ -199,6 +197,5 @@ aside:
 <li> 14.05.2021 Утренние "пробки" в пойме<a href="https://www.youtube.com/watch?v=--mSb5eUg-8">https://www.youtube.com/watch?v=--mSb5eUg-8</a> </li>
 ...
 </ul>
-</details>
 
 Обновлено 13.08.2021
