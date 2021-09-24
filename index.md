@@ -123,7 +123,7 @@ aside:
 <ul>
 <li>23.09.2021 <a href="https://www.instagram.com/p/CUKvJ6FIY6z/ ">Сотрудники УФСБ России по Волгоградской области совместно с прокуратурой региона выявили хищение бюджетных средств, выделенных на реабилитацию ериков и озер</a></li>
 <li>23.09.2021 <a href="https://www.youtube.com/watch?v=J69NCc6DsIg ">При ликвидации валки вблизи камышына украли почти 200 миллионов рублей</a></li>
-<li>22.09.2021 https://t.me/treesVlg/230</a></li>
+<li>22.09.2021 <a href="https://t.me/treesVlg/230">https://t.me/treesVlg/230</a></li>
 <li>22.09.2021 <a href="https://novayagazeta.ru/articles/2021/09/22/proezd-po-krasnoi-knige ">Проезд по Красной книге. Чиновники узаконили рубку леса в природном парке под Волгоградом. При чем тут Ротенберги</a></li>
 <li>21.09.2021 <a href="https://greenpeace.ru/news/2021/09/21/ ">Прокуратура не собирается принимать действенные меры по Волго-Ахтубинской пойме</a></li>
 <li>21.09.2021 <a href="https://volga-kaspiy.ru/society/zablokirovany-scheta-ispolnitelya-rabot-po-naczproektu-ekologiya-v-volgogradskoj-oblasti.html/ ">Заблокированы счета исполнителя работ по нацпроекту «Экология» в Волгоградской области</a></li>
