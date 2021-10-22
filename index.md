@@ -129,6 +129,31 @@ aside:
 
 ## Публикации по теме в других СМИ
 <ul>
+<li>21.10.2021 <a href="https://t.me/greenserpent/13007">https://t.me/greenserpent/13007</a></li>
+<li>19.10.2021 <a href="https://t.me/volgograd_tg/3735">Почти 3,5 тысяч гектаров леса погибло в Волгоградской области в этом году</a></li>
+<li>19.10.2021 <a href="https://t.me/nzzhit/6429">НЗЖ посетили Волго-Ахтубинскую пойму и готовы показать результаты поездки в фотоотчете (<a href="https://nzz.eco/news/fotoothuet-poezdki-nzz-na-volgo-ahtubinskuy-poymu/)."></a></li>
+<li>19.10.2021 <a href="https://7x7-journal.ru/articles/2021.10.2021/19/ekoaktivisty-v-volgo-ahtubinskoj-pojme">Зачем экоактивисты из Архангельска и Удмуртии поехали защищать природный парк в Волгоградской области</a></li>
+<li>17.10.2021 <a href="https://t.me/nzzhit/6400">Экоактивисты (в том числе и мы) повесили на деревья, которые хотят вырубить в Волго-Ахтубинской пойме </a></li>
+<li>14.10.2021 <a href="https://t.me/project_plus_one/560">Greenpeace требует возбудить уголовное дело по факту варварской вырубки дубов в Волго-Ахтубинской пойме</a></li>
+<li>14.10.2021 <a href="https://takiedela.ru/2021.10.2021/poymat-pamyat/">Волго-Ахтубинская пойма — единственный лес для местных жителей</a></li>
+<li>13.10.2021 <a href="https://t.me/Vivodynachistotu/6921">Защита Волго-Ахтубинской поймы выходит на новый уровень. Теперь отстоять заповедный лес жители разных городов.</a></li>
+<li>11.10.2021 <a href="https://t.me/nzzhit/6367">Пикеты в поддержку Волго-Ахтубинской поймы прошли более чем в 20 городах России </a></li>
+<li>11.10.2021 <a href="https://t.me/ecomisli/4164">В эти выходные более чем в 20 российских городах прошла акция солидарности в защиту Волго-Ахтубинской поймы</a></li>
+<li>11.10.2021 <a href="https://vk.com/wall-2002.10.202160_1199">Международный флешмоб в защиту Волго-Ахтубинской поймы</a></li>
+<li>09.10.2021 <a href="https://www.youtube.com/watch?v=fx-7JeYNRuE">Пленарная сессия №2 «Закон и порядок», с 1:16.10.2021 до 1:20:24 вопрос про пойму</a></li>
+<li>09.10.2021 <a href="https://www.instagram.com/p/CUxWykrMRK3">На Волго-Ахтубинской пойме снова столкновения</a></li>
+<li>08.10.2021 <a href="https://ekogradmoscow.ru/2012-11-25-08-44-50/2012-11-25-08-49-32/kto-i-zachem-okazyvaet-davlenie-na-zashchitnikov-dubravy-v-volgo-akhtubinskoj-pojmy">Кто и зачем оказывает давление на защитников дубравы Волго-Ахтубинской поймы </a></li>
+<li>08.10.2021 <a href="https://lacmus.life/novosti/3289-v-volgograde-idet-pod-sud-byvshij-glava-komiteta-prirodnyh-resursov.html">В Волгограде идет под суд бывший глава комитета природных ресурсов</a></li>
+<li>06.10.2021 <a href="https://lacmus.life/novosti/3260-v-voroshilovskom-rajone-volgograda-nachala-massovaja-vyrubka-derevev.html">В Ворошиловском районе Волгограда началась массовая вырубка деревьев</a></li>
+<li>05.10.2021 <a href="https://lacmus.life/novosti/3254-v-volgograde-idet-pod-sud-zakazchik-skandalnoj-likvidacii-svalok.html">В Волгограде идет под суд заказчик скандальной ликвидации свалок</a></li>
+<li>05.10.2021 <a href="https://lacmus.life/novosti/3251-v-volgograde-vyrubajut-ostatki-skvera-na-7-j-gvardejskoj.html">В Волгограде вырубают остатки сквера на 7-й Гвардейской</a></li>
+<li>05.10.2021 <a href="https://lacmus.life/stati/3244-volgogradskaja-oblast-pretenduet-na-zvanie-sokrovischa-rossii.html">Волгоградская область претендует на звание «Сокровища России»</a></li>
+<li>02.10.2021 <a href="https://t.me/volgograd_tg/3647">В Волгоградской области началась подготовка к строительству моста через ерик Гнилой</a></li>
+<li>01.10.2021 <a href="https://www.youtube.com/watch?v=RRDVUbbZS3U">Волгоградсверху - дорога через пойму - октябрь 2021</a></li>
+<li>01.10.2021 <a href="https://lacmus.life/novosti/3211-klubnika-so-smetanoj-ili-zub-djavola-v-volgogradskoj-oblasti-nashli-redchajshij-grib.html">Клубника со сметаной или "зуб дьявола": в Волгоградской области нашли редчайший гриб</a></li>
+<li>01.10.2021 <a href="https://lacmus.life/novosti/3208-v-volgograde-prodolzhat-rubit-derevja-iz-za-opasnogo-vreditelja.html">В Волгограде продолжат рубить деревья из-за опасного вредителя</a></li>
+<li>30.09.2021 <a href="https://www.instagram.com/p/CUbyt-jIRUn">В Волгоградской области уничтожается заповедник Волго-Ахтубинская пойма</a></li>
+<li>27.09.2021 <a href="https://vk.com/wall512762626_371">Облкомприроды призывает голосовать за главные достопримечательности Волгоградской области</a></li>
 <li>23.09.2021 <a href="https://www.instagram.com/p/CUKvJ6FIY6z/ ">Сотрудники УФСБ России по Волгоградской области совместно с прокуратурой региона выявили хищение бюджетных средств, выделенных на реабилитацию ериков и озер</a></li>
 <li>23.09.2021 <a href="https://www.youtube.com/watch?v=J69NCc6DsIg ">При ликвидации валки вблизи камышына украли почти 200 миллионов рублей</a></li>
 <li>22.09.2021 <a href="https://t.me/treesVlg/230">https://t.me/treesVlg/230</a></li>
@@ -274,4 +299,4 @@ aside:
 ...
 </ul>
 
-Обновлено 01.10.2021
+Обновлено 21.10.2021
